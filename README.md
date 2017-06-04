@@ -4,3 +4,5 @@ This is my first repository. I will store all of my basic info to learn how to u
 My name is Amadeusz, I study computer science.
 
 My last change to the file to see differences betweet github and gitlab
+
+Documents for placement : p45, passport, bank details
